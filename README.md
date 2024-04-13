@@ -11,4 +11,4 @@ Todo:
 REQUIREMENTS:
 - Python 3.11
 - gymnasium 
-- gym_BinPack3D
+- gym_BinPack3D: you'll need to use a modified version of binpack to work with stable_baselines3 https://github.com/khleedavid/gym-BinPack3D
