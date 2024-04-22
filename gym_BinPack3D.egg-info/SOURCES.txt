@@ -1,0 +1,13 @@
+README.md
+setup.py
+gym_BinPack3D/__init__.py
+gym_BinPack3D.egg-info/PKG-INFO
+gym_BinPack3D.egg-info/SOURCES.txt
+gym_BinPack3D.egg-info/dependency_links.txt
+gym_BinPack3D.egg-info/requires.txt
+gym_BinPack3D.egg-info/top_level.txt
+gym_BinPack3D/envs/BinPack3DEnv.py
+gym_BinPack3D/envs/BoxSeqGenerator.py
+gym_BinPack3D/envs/Container.py
+gym_BinPack3D/envs/VisUtil.py
+gym_BinPack3D/envs/__init__.py

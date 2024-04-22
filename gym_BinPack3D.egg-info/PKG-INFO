@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: gym_BinPack3D
+Version: 0.1
+Requires-Dist: gym
+Requires-Dist: numpy
+Requires-Dist: gymnasium
